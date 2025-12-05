@@ -1,0 +1,5 @@
+git log --oneline : permet d’afficher un historique condensé des commits. Je vois les identifiants courts et les messages de commit.
+
+git show id : affiche le détail d’un commit, notamment les modifications apportées. Cela permet de voir exactement ce qui a été changé.
+
+git diff A B : compare deux versions d'un fichier ou ensemble de fichiers entre deux commits. On peut analyser ligne par ligne ce qui a été modifié.
