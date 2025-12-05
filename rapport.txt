@@ -1,0 +1,5 @@
+1. Pendant ce TP, j’ai appris à manipuler l’historique Git : modifier un commit, revenir en arrière, annuler des commits et utiliser le stash.
+
+2. La commande la plus utile est 'git log', car elle me permet de visualiser clairement l’historique et les identifiants de commits.
+
+3. La partie la plus difficile a été de comprendre la différence entre git reset et git revert, car ils modifient l’historique de manière différente.
